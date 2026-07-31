@@ -1,0 +1,39 @@
+name: Scarica calendario partite
+
+on:
+  schedule:
+    # 05:30 UTC ogni giorno = 06:30 (ora solare) o 07:30 (ora legale) in Italia.
+    # Gira comunque prima delle 8:00 locali, orario del task Cowork che legge questo file.
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}  # permette di lanciarlo manualmente da GitHub per testare
+
+permissions:
+  contents: write
+
+jobs:
+  scarica:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Imposta Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Scarica calendario
+        run: python scarica_calendario_github.py
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+
+      - name: Commit e push del risultato
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Aggiorna calendario $(date -u +%Y-%m-%d)" || echo "Nessuna modifica da salvare"
+          git push
