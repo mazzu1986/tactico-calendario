@@ -21,7 +21,7 @@ import requests
 from leghe import LEGHE
 
 API_KEY = os.environ.get("FOOTBALL_DATA_API_KEY", "").strip()
-BASE_URL = "https://api.football-data.org/v4/competitions/{fd_code}/matches?status=SCHEDULED"
+BASE_URL = "https://api.football-data.org/v4/competitions/{fd_code}/matches?status=SCHEDULED,TIMED"
 
 OUTPUT_DIR = "data"
 
