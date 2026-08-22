@@ -1,5 +1,5 @@
 {
-  "generato_il_utc": "2026-08-22T05:51:18.576097+00:00",
+  "generato_il_utc": "2026-08-22T19:40:55.762435+00:00",
   "campionati": [
     {
       "lega": "Serie A",
@@ -7,30 +7,6 @@
       "errore": null,
       "giornata": 1,
       "partite": [
-        {
-          "casa_fd": "Udinese Calcio",
-          "trasferta_fd": "Como 1907",
-          "data": "2026-08-22",
-          "ora_utc": "16:30"
-        },
-        {
-          "casa_fd": "FC Internazionale Milano",
-          "trasferta_fd": "AC Monza",
-          "data": "2026-08-22",
-          "ora_utc": "16:30"
-        },
-        {
-          "casa_fd": "Genoa CFC",
-          "trasferta_fd": "SSC Napoli",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
-        {
-          "casa_fd": "Parma Calcio 1913",
-          "trasferta_fd": "Cagliari Calcio",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
         {
           "casa_fd": "Frosinone Calcio",
           "trasferta_fd": "Juventus FC",
@@ -75,36 +51,6 @@
       "errore": null,
       "giornata": 1,
       "partite": [
-        {
-          "casa_fd": "Hull City AFC",
-          "trasferta_fd": "Manchester United FC",
-          "data": "2026-08-22",
-          "ora_utc": "11:30"
-        },
-        {
-          "casa_fd": "Ipswich Town FC",
-          "trasferta_fd": "Sunderland AFC",
-          "data": "2026-08-22",
-          "ora_utc": "14:00"
-        },
-        {
-          "casa_fd": "Nottingham Forest FC",
-          "trasferta_fd": "Leeds United FC",
-          "data": "2026-08-22",
-          "ora_utc": "14:00"
-        },
-        {
-          "casa_fd": "Everton FC",
-          "trasferta_fd": "Crystal Palace FC",
-          "data": "2026-08-22",
-          "ora_utc": "14:00"
-        },
-        {
-          "casa_fd": "Brentford FC",
-          "trasferta_fd": "Tottenham Hotspur FC",
-          "data": "2026-08-22",
-          "ora_utc": "16:30"
-        },
         {
           "casa_fd": "Manchester City FC",
           "trasferta_fd": "AFC Bournemouth",
@@ -231,36 +177,6 @@
       "errore": null,
       "giornata": 1,
       "partite": [
-        {
-          "casa_fd": "Racing Club de Lens",
-          "trasferta_fd": "AJ Auxerre",
-          "data": "2026-08-22",
-          "ora_utc": "15:15"
-        },
-        {
-          "casa_fd": "Le Mans FC",
-          "trasferta_fd": "Stade Brestois 29",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
-        {
-          "casa_fd": "ES Troyes AC",
-          "trasferta_fd": "Paris FC",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
-        {
-          "casa_fd": "OGC Nice",
-          "trasferta_fd": "FC Lorient",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
-        {
-          "casa_fd": "Toulouse FC",
-          "trasferta_fd": "Olympique Lyonnais",
-          "data": "2026-08-22",
-          "ora_utc": "18:45"
-        },
         {
           "casa_fd": "Angers SCO",
           "trasferta_fd": "Lille OSC",
