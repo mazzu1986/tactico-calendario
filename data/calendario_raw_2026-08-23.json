@@ -1,10 +1,16 @@
 {
-  "generato_il_utc": "2026-08-23T05:53:31.318507+00:00",
+  "generato_il_utc": "2026-08-23T15:37:43.355438+00:00",
+  "finestra_data_da": "2026-08-20",
+  "finestra_data_a": "2026-09-02",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
+      "giornate_presenti": [
+        1,
+        2
+      ],
       "giornata": 1,
       "partite": [
         {
@@ -12,6 +18,7 @@
           "trasferta_fd": "Como 1907",
           "data": "2026-08-22",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 1,
           "gol_trasferta": 1
@@ -21,6 +28,7 @@
           "trasferta_fd": "AC Monza",
           "data": "2026-08-22",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 4,
           "gol_trasferta": 1
@@ -30,6 +38,7 @@
           "trasferta_fd": "SSC Napoli",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 2
@@ -39,6 +48,7 @@
           "trasferta_fd": "Cagliari Calcio",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 1
@@ -48,6 +58,7 @@
           "trasferta_fd": "Juventus FC",
           "data": "2026-08-23",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -57,6 +68,7 @@
           "trasferta_fd": "US Lecce",
           "data": "2026-08-23",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -66,6 +78,7 @@
           "trasferta_fd": "US Sassuolo Calcio",
           "data": "2026-08-23",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -75,6 +88,7 @@
           "trasferta_fd": "AC Milan",
           "data": "2026-08-23",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -84,6 +98,7 @@
           "trasferta_fd": "SS Lazio",
           "data": "2026-08-24",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -93,6 +108,107 @@
           "trasferta_fd": "ACF Fiorentina",
           "data": "2026-08-24",
           "ora_utc": "18:45",
+          "giornata": 1,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AC Milan",
+          "trasferta_fd": "Venezia FC",
+          "data": "2026-08-28",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "US Sassuolo Calcio",
+          "trasferta_fd": "Torino FC",
+          "data": "2026-08-29",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AC Monza",
+          "trasferta_fd": "Udinese Calcio",
+          "data": "2026-08-29",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "ACF Fiorentina",
+          "trasferta_fd": "Frosinone Calcio",
+          "data": "2026-08-29",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Juventus FC",
+          "trasferta_fd": "Parma Calcio 1913",
+          "data": "2026-08-29",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "SSC Napoli",
+          "trasferta_fd": "Como 1907",
+          "data": "2026-08-30",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "SS Lazio",
+          "trasferta_fd": "Genoa CFC",
+          "data": "2026-08-30",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Cagliari Calcio",
+          "trasferta_fd": "FC Internazionale Milano",
+          "data": "2026-08-30",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "US Lecce",
+          "trasferta_fd": "AS Roma",
+          "data": "2026-08-31",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Atalanta BC",
+          "trasferta_fd": "Bologna FC 1909",
+          "data": "2026-08-31",
+          "ora_utc": "18:45",
+          "giornata": 2,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -103,6 +219,10 @@
       "lega": "Premier League",
       "fd_code": "PL",
       "errore": null,
+      "giornate_presenti": [
+        1,
+        2
+      ],
       "giornata": 1,
       "partite": [
         {
@@ -110,6 +230,7 @@
           "trasferta_fd": "Coventry City FC",
           "data": "2026-08-21",
           "ora_utc": "19:00",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 3,
           "gol_trasferta": 0
@@ -119,6 +240,7 @@
           "trasferta_fd": "Manchester United FC",
           "data": "2026-08-22",
           "ora_utc": "11:30",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 2,
           "gol_trasferta": 0
@@ -128,6 +250,7 @@
           "trasferta_fd": "Sunderland AFC",
           "data": "2026-08-22",
           "ora_utc": "14:00",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 2,
           "gol_trasferta": 1
@@ -137,6 +260,7 @@
           "trasferta_fd": "Leeds United FC",
           "data": "2026-08-22",
           "ora_utc": "14:00",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 1
@@ -146,6 +270,7 @@
           "trasferta_fd": "Crystal Palace FC",
           "data": "2026-08-22",
           "ora_utc": "14:00",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 2,
           "gol_trasferta": 0
@@ -155,6 +280,7 @@
           "trasferta_fd": "Tottenham Hotspur FC",
           "data": "2026-08-22",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 3,
           "gol_trasferta": 0
@@ -164,33 +290,137 @@
           "trasferta_fd": "AFC Bournemouth",
           "data": "2026-08-23",
           "ora_utc": "13:00",
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "giornata": 1,
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Brighton & Hove Albion FC",
           "trasferta_fd": "Aston Villa FC",
           "data": "2026-08-23",
           "ora_utc": "13:00",
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "giornata": 1,
+          "stato": "FINISHED",
+          "gol_casa": 4,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Newcastle United FC",
           "trasferta_fd": "Liverpool FC",
           "data": "2026-08-23",
           "ora_utc": "15:30",
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "giornata": 1,
+          "stato": "IN_PLAY",
+          "gol_casa": 0,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Fulham FC",
           "trasferta_fd": "Chelsea FC",
           "data": "2026-08-24",
           "ora_utc": "19:00",
+          "giornata": 1,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Crystal Palace FC",
+          "trasferta_fd": "Manchester City FC",
+          "data": "2026-08-28",
+          "ora_utc": "19:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Liverpool FC",
+          "trasferta_fd": "Nottingham Forest FC",
+          "data": "2026-08-29",
+          "ora_utc": "11:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AFC Bournemouth",
+          "trasferta_fd": "Everton FC",
+          "data": "2026-08-29",
+          "ora_utc": "14:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Coventry City FC",
+          "trasferta_fd": "Hull City AFC",
+          "data": "2026-08-29",
+          "ora_utc": "14:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Tottenham Hotspur FC",
+          "trasferta_fd": "Newcastle United FC",
+          "data": "2026-08-29",
+          "ora_utc": "16:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Sunderland AFC",
+          "trasferta_fd": "Fulham FC",
+          "data": "2026-08-30",
+          "ora_utc": "13:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Chelsea FC",
+          "trasferta_fd": "Brighton & Hove Albion FC",
+          "data": "2026-08-30",
+          "ora_utc": "13:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Leeds United FC",
+          "trasferta_fd": "Brentford FC",
+          "data": "2026-08-30",
+          "ora_utc": "13:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Manchester United FC",
+          "trasferta_fd": "Ipswich Town FC",
+          "data": "2026-08-30",
+          "ora_utc": "15:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Aston Villa FC",
+          "trasferta_fd": "Arsenal FC",
+          "data": "2026-08-31",
+          "ora_utc": "19:00",
+          "giornata": 2,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -201,67 +431,119 @@
       "lega": "La Liga",
       "fd_code": "PD",
       "errore": null,
+      "giornate_presenti": [
+        1,
+        2,
+        3
+      ],
       "giornata": 1,
       "partite": [
         {
-          "casa_fd": "Deportivo Alavés",
-          "trasferta_fd": "Getafe CF",
-          "data": "2026-08-15",
-          "ora_utc": "17:30",
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Sevilla FC",
-          "trasferta_fd": "Rayo Vallecano de Madrid",
-          "data": "2026-08-15",
-          "ora_utc": "19:30",
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 1
-        },
-        {
-          "casa_fd": "Real Racing Club de Santander",
-          "trasferta_fd": "Villarreal CF",
-          "data": "2026-08-16",
-          "ora_utc": "15:00",
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "RCD Espanyol de Barcelona",
-          "trasferta_fd": "Levante UD",
-          "data": "2026-08-16",
-          "ora_utc": "17:00",
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "RC Deportivo La Coruña",
-          "trasferta_fd": "Elche CF",
-          "data": "2026-08-17",
+          "casa_fd": "Rayo Vallecano de Madrid",
+          "trasferta_fd": "Deportivo Alavés",
+          "data": "2026-08-20",
           "ora_utc": "19:00",
+          "giornata": 2,
           "stato": "FINISHED",
           "gol_casa": 1,
           "gol_trasferta": 1
         },
         {
-          "casa_fd": "Club Atlético de Madrid",
-          "trasferta_fd": "Málaga CF",
-          "data": "2026-08-19",
+          "casa_fd": "Real Betis Balompié",
+          "trasferta_fd": "Real Sociedad de Fútbol",
+          "data": "2026-08-21",
           "ora_utc": "19:00",
+          "giornata": 2,
           "stato": "FINISHED",
-          "gol_casa": 2,
+          "gol_casa": 1,
           "gol_trasferta": 0
+        },
+        {
+          "casa_fd": "Athletic Club",
+          "trasferta_fd": "Sevilla FC",
+          "data": "2026-08-22",
+          "ora_utc": "15:00",
+          "giornata": 2,
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 3
+        },
+        {
+          "casa_fd": "Valencia CF",
+          "trasferta_fd": "RC Celta de Vigo",
+          "data": "2026-08-22",
+          "ora_utc": "17:30",
+          "giornata": 2,
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 0
+        },
+        {
+          "casa_fd": "RCD Espanyol de Barcelona",
+          "trasferta_fd": "Real Madrid CF",
+          "data": "2026-08-22",
+          "ora_utc": "19:30",
+          "giornata": 2,
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 2
+        },
+        {
+          "casa_fd": "Club Atlético de Madrid",
+          "trasferta_fd": "Villarreal CF",
+          "data": "2026-08-23",
+          "ora_utc": "15:00",
+          "giornata": 2,
+          "stato": "IN_PLAY",
+          "gol_casa": 0,
+          "gol_trasferta": 0
+        },
+        {
+          "casa_fd": "Getafe CF",
+          "trasferta_fd": "Real Racing Club de Santander",
+          "data": "2026-08-23",
+          "ora_utc": "17:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Elche CF",
+          "trasferta_fd": "FC Barcelona",
+          "data": "2026-08-23",
+          "ora_utc": "19:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "CA Osasuna",
+          "trasferta_fd": "Levante UD",
+          "data": "2026-08-24",
+          "ora_utc": "17:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Málaga CF",
+          "trasferta_fd": "RC Deportivo La Coruña",
+          "data": "2026-08-24",
+          "ora_utc": "19:30",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         },
         {
           "casa_fd": "Valencia CF",
           "trasferta_fd": "Real Betis Balompié",
           "data": "2026-08-25",
           "ora_utc": "19:00",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -271,6 +553,7 @@
           "trasferta_fd": "Real Sociedad de Fútbol",
           "data": "2026-08-26",
           "ora_utc": "19:00",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -280,6 +563,7 @@
           "trasferta_fd": "CA Osasuna",
           "data": "2026-08-27",
           "ora_utc": "18:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -289,6 +573,107 @@
           "trasferta_fd": "Athletic Club",
           "data": "2026-08-27",
           "ora_utc": "19:00",
+          "giornata": 1,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Real Racing Club de Santander",
+          "trasferta_fd": "Elche CF",
+          "data": "2026-08-28",
+          "ora_utc": "17:00",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Deportivo Alavés",
+          "trasferta_fd": "Villarreal CF",
+          "data": "2026-08-28",
+          "ora_utc": "19:30",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Levante UD",
+          "trasferta_fd": "Real Betis Balompié",
+          "data": "2026-08-29",
+          "ora_utc": "15:00",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Real Sociedad de Fútbol",
+          "trasferta_fd": "RCD Espanyol de Barcelona",
+          "data": "2026-08-29",
+          "ora_utc": "17:00",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Sevilla FC",
+          "trasferta_fd": "Club Atlético de Madrid",
+          "data": "2026-08-29",
+          "ora_utc": "19:30",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Real Madrid CF",
+          "trasferta_fd": "Málaga CF",
+          "data": "2026-08-30",
+          "ora_utc": "15:00",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "RC Deportivo La Coruña",
+          "trasferta_fd": "Valencia CF",
+          "data": "2026-08-30",
+          "ora_utc": "17:30",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "RC Celta de Vigo",
+          "trasferta_fd": "Athletic Club",
+          "data": "2026-08-30",
+          "ora_utc": "19:30",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "CA Osasuna",
+          "trasferta_fd": "Getafe CF",
+          "data": "2026-08-31",
+          "ora_utc": "17:30",
+          "giornata": 3,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Barcelona",
+          "trasferta_fd": "Rayo Vallecano de Madrid",
+          "data": "2026-08-31",
+          "ora_utc": "19:30",
+          "giornata": 3,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -299,6 +684,9 @@
       "lega": "Bundesliga",
       "fd_code": "BL1",
       "errore": null,
+      "giornate_presenti": [
+        1
+      ],
       "giornata": 1,
       "partite": [
         {
@@ -306,6 +694,7 @@
           "trasferta_fd": "VfB Stuttgart",
           "data": "2026-08-28",
           "ora_utc": "18:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -315,6 +704,7 @@
           "trasferta_fd": "Borussia Mönchengladbach",
           "data": "2026-08-29",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -324,6 +714,7 @@
           "trasferta_fd": "SC Paderborn 07",
           "data": "2026-08-29",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -333,6 +724,7 @@
           "trasferta_fd": "Eintracht Frankfurt",
           "data": "2026-08-29",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -342,6 +734,7 @@
           "trasferta_fd": "Bayer 04 Leverkusen",
           "data": "2026-08-29",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -351,6 +744,7 @@
           "trasferta_fd": "TSG 1899 Hoffenheim",
           "data": "2026-08-29",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -360,6 +754,7 @@
           "trasferta_fd": "Hamburger SV",
           "data": "2026-08-29",
           "ora_utc": "16:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -369,6 +764,7 @@
           "trasferta_fd": "SV Werder Bremen",
           "data": "2026-08-30",
           "ora_utc": "13:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -378,6 +774,7 @@
           "trasferta_fd": "FC Schalke 04",
           "data": "2026-08-30",
           "ora_utc": "15:30",
+          "giornata": 1,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -388,6 +785,10 @@
       "lega": "Ligue 1",
       "fd_code": "FL1",
       "errore": null,
+      "giornate_presenti": [
+        1,
+        2
+      ],
       "giornata": 1,
       "partite": [
         {
@@ -395,6 +796,7 @@
           "trasferta_fd": "RC Strasbourg Alsace",
           "data": "2026-08-21",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 4,
           "gol_trasferta": 0
@@ -404,6 +806,7 @@
           "trasferta_fd": "AJ Auxerre",
           "data": "2026-08-22",
           "ora_utc": "15:15",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 5,
           "gol_trasferta": 2
@@ -413,6 +816,7 @@
           "trasferta_fd": "Stade Brestois 29",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 2,
           "gol_trasferta": 2
@@ -422,6 +826,7 @@
           "trasferta_fd": "Paris FC",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 0
@@ -431,6 +836,7 @@
           "trasferta_fd": "FC Lorient",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 0
@@ -440,6 +846,7 @@
           "trasferta_fd": "Olympique Lyonnais",
           "data": "2026-08-22",
           "ora_utc": "18:45",
+          "giornata": 1,
           "stato": "FINISHED",
           "gol_casa": 0,
           "gol_trasferta": 2
@@ -449,24 +856,117 @@
           "trasferta_fd": "Lille OSC",
           "data": "2026-08-23",
           "ora_utc": "13:00",
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "giornata": 1,
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 3
         },
         {
           "casa_fd": "Le Havre AC",
           "trasferta_fd": "AS Monaco FC",
           "data": "2026-08-23",
           "ora_utc": "15:15",
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "giornata": 1,
+          "stato": "IN_PLAY",
+          "gol_casa": 0,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Paris Saint-Germain FC",
           "trasferta_fd": "Stade Rennais FC 1901",
           "data": "2026-08-23",
           "ora_utc": "18:45",
+          "giornata": 1,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Lille OSC",
+          "trasferta_fd": "Paris Saint-Germain FC",
+          "data": "2026-08-28",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "RC Strasbourg Alsace",
+          "trasferta_fd": "Racing Club de Lens",
+          "data": "2026-08-29",
+          "ora_utc": "15:15",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Lorient",
+          "trasferta_fd": "ES Troyes AC",
+          "data": "2026-08-29",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Olympique Lyonnais",
+          "trasferta_fd": "Le Havre AC",
+          "data": "2026-08-29",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AJ Auxerre",
+          "trasferta_fd": "Angers SCO",
+          "data": "2026-08-29",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Stade Brestois 29",
+          "trasferta_fd": "Toulouse FC",
+          "data": "2026-08-29",
+          "ora_utc": "18:45",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Paris FC",
+          "trasferta_fd": "OGC Nice",
+          "data": "2026-08-30",
+          "ora_utc": "13:00",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Stade Rennais FC 1901",
+          "trasferta_fd": "Le Mans FC",
+          "data": "2026-08-30",
+          "ora_utc": "15:15",
+          "giornata": 2,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AS Monaco FC",
+          "trasferta_fd": "Olympique de Marseille",
+          "data": "2026-08-30",
+          "ora_utc": "18:45",
+          "giornata": 2,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
