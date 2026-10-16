@@ -1,39 +1,18 @@
 {
-  "generato_il_utc": "2026-10-15T10:09:19.665190+00:00",
-  "finestra_data_da": "2026-10-12",
-  "finestra_data_a": "2026-10-25",
+  "generato_il_utc": "2026-10-16T10:00:57.017979+00:00",
+  "finestra_data_da": "2026-10-13",
+  "finestra_data_a": "2026-10-26",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
       "giornate_presenti": [
-        6,
         7,
         8
       ],
-      "giornata": 6,
+      "giornata": 7,
       "partite": [
-        {
-          "casa_fd": "Atalanta BC",
-          "trasferta_fd": "Venezia FC",
-          "data": "2026-10-12",
-          "ora_utc": "16:30",
-          "giornata": 6,
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 1
-        },
-        {
-          "casa_fd": "Torino FC",
-          "trasferta_fd": "Udinese Calcio",
-          "data": "2026-10-12",
-          "ora_utc": "18:45",
-          "giornata": 6,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Frosinone Calcio",
           "trasferta_fd": "US Sassuolo Calcio",
@@ -241,22 +220,11 @@
       "fd_code": "PL",
       "errore": null,
       "giornate_presenti": [
-        6,
         7,
         8
       ],
-      "giornata": 6,
+      "giornata": 7,
       "partite": [
-        {
-          "casa_fd": "Coventry City FC",
-          "trasferta_fd": "Newcastle United FC",
-          "data": "2026-10-12",
-          "ora_utc": "19:00",
-          "giornata": 6,
-          "stato": "FINISHED",
-          "gol_casa": 4,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Everton FC",
           "trasferta_fd": "Chelsea FC",
@@ -465,22 +433,11 @@
       "errore": null,
       "giornate_presenti": [
         6,
-        8,
         9,
         10
       ],
       "giornata": 6,
       "partite": [
-        {
-          "casa_fd": "Levante UD",
-          "trasferta_fd": "Sevilla FC",
-          "data": "2026-10-12",
-          "ora_utc": "19:00",
-          "giornata": 8,
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 3
-        },
         {
           "casa_fd": "RC Deportivo La Coruña",
           "trasferta_fd": "Levante UD",
@@ -675,6 +632,16 @@
           "casa_fd": "FC Barcelona",
           "trasferta_fd": "Real Madrid CF",
           "data": "2026-10-25",
+          "ora_utc": "20:00",
+          "giornata": 10,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Sevilla FC",
+          "trasferta_fd": "CA Osasuna",
+          "data": "2026-10-26",
           "ora_utc": "20:00",
           "giornata": 10,
           "stato": "TIMED",
