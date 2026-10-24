@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-10-23T10:20:31.464842+00:00",
-  "finestra_data_da": "2026-10-20",
-  "finestra_data_a": "2026-11-02",
+  "generato_il_utc": "2026-10-24T09:41:57.959634+00:00",
+  "finestra_data_da": "2026-10-21",
+  "finestra_data_a": "2026-11-03",
   "campionati": [
     {
       "lega": "Serie A",
@@ -20,9 +20,9 @@
           "data": "2026-10-23",
           "ora_utc": "18:45",
           "giornata": 8,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "Cagliari Calcio",
@@ -332,9 +332,9 @@
           "data": "2026-10-23",
           "ora_utc": "19:00",
           "giornata": 8,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Aston Villa FC",
@@ -555,9 +555,9 @@
           "data": "2026-10-23",
           "ora_utc": "19:00",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Rayo Vallecano de Madrid",
@@ -767,9 +767,9 @@
           "data": "2026-10-23",
           "ora_utc": "18:30",
           "giornata": 7,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 3
         },
         {
           "casa_fd": "1. FSV Mainz 05",
@@ -959,9 +959,9 @@
           "data": "2026-10-23",
           "ora_utc": "18:45",
           "giornata": 8,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "Racing Club de Lens",
@@ -1036,8 +1036,8 @@
         {
           "casa_fd": "Paris Saint-Germain FC",
           "trasferta_fd": "Olympique Lyonnais",
-          "data": "2026-10-25",
-          "ora_utc": "19:45",
+          "data": "2026-10-26",
+          "ora_utc": "19:30",
           "giornata": 8,
           "stato": "TIMED",
           "gol_casa": null,
