@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-10-29T11:38:39.574784+00:00",
-  "finestra_data_da": "2026-10-26",
-  "finestra_data_a": "2026-11-08",
+  "generato_il_utc": "2026-10-30T11:29:51.641671+00:00",
+  "finestra_data_da": "2026-10-27",
+  "finestra_data_a": "2026-11-09",
   "campionati": [
     {
       "lega": "Serie A",
@@ -100,9 +100,9 @@
           "data": "2026-10-29",
           "ora_utc": "17:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 5,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "ACF Fiorentina",
@@ -110,9 +110,9 @@
           "data": "2026-10-29",
           "ora_utc": "19:45",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "Bologna FC 1909",
@@ -533,22 +533,11 @@
       "fd_code": "PD",
       "errore": null,
       "giornate_presenti": [
-        10,
         11,
         12
       ],
-      "giornata": 10,
+      "giornata": 11,
       "partite": [
-        {
-          "casa_fd": "Sevilla FC",
-          "trasferta_fd": "CA Osasuna",
-          "data": "2026-10-26",
-          "ora_utc": "20:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
         {
           "casa_fd": "Villarreal CF",
           "trasferta_fd": "RCD Espanyol de Barcelona",
@@ -948,22 +937,11 @@
       "fd_code": "FL1",
       "errore": null,
       "giornate_presenti": [
-        8,
         9,
         10
       ],
-      "giornata": 8,
+      "giornata": 9,
       "partite": [
-        {
-          "casa_fd": "Paris Saint-Germain FC",
-          "trasferta_fd": "Olympique Lyonnais",
-          "data": "2026-10-26",
-          "ora_utc": "19:30",
-          "giornata": 8,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
         {
           "casa_fd": "Le Havre AC",
           "trasferta_fd": "Paris Saint-Germain FC",
