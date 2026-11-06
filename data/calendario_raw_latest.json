@@ -1,38 +1,17 @@
 {
-  "generato_il_utc": "2026-11-05T13:23:12.207903+00:00",
-  "finestra_data_da": "2026-11-02",
-  "finestra_data_a": "2026-11-15",
+  "generato_il_utc": "2026-11-06T13:05:59.509973+00:00",
+  "finestra_data_da": "2026-11-03",
+  "finestra_data_a": "2026-11-16",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
       "giornate_presenti": [
-        10,
         11
       ],
-      "giornata": 10,
+      "giornata": 11,
       "partite": [
-        {
-          "casa_fd": "US Sassuolo Calcio",
-          "trasferta_fd": "ACF Fiorentina",
-          "data": "2026-11-02",
-          "ora_utc": "17:30",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 4
-        },
-        {
-          "casa_fd": "Atalanta BC",
-          "trasferta_fd": "Parma Calcio 1913",
-          "data": "2026-11-02",
-          "ora_utc": "19:45",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 3
-        },
         {
           "casa_fd": "Venezia FC",
           "trasferta_fd": "Udinese Calcio",
@@ -140,21 +119,10 @@
       "fd_code": "PL",
       "errore": null,
       "giornate_presenti": [
-        9,
         10
       ],
-      "giornata": 9,
+      "giornata": 10,
       "partite": [
-        {
-          "casa_fd": "Newcastle United FC",
-          "trasferta_fd": "Everton FC",
-          "data": "2026-11-02",
-          "ora_utc": "20:00",
-          "giornata": 9,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Everton FC",
           "trasferta_fd": "Coventry City FC",
@@ -262,21 +230,10 @@
       "fd_code": "PD",
       "errore": null,
       "giornate_presenti": [
-        11,
         12
       ],
-      "giornata": 11,
+      "giornata": 12,
       "partite": [
-        {
-          "casa_fd": "RC Deportivo La Coruña",
-          "trasferta_fd": "CA Osasuna",
-          "data": "2026-11-02",
-          "ora_utc": "20:00",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Sevilla FC",
           "trasferta_fd": "Deportivo Alavés",
@@ -485,21 +442,10 @@
       "fd_code": "FL1",
       "errore": null,
       "giornate_presenti": [
-        9,
         10
       ],
-      "giornata": 9,
+      "giornata": 10,
       "partite": [
-        {
-          "casa_fd": "FC Lorient",
-          "trasferta_fd": "Stade Brestois 29",
-          "data": "2026-11-02",
-          "ora_utc": "19:45",
-          "giornata": 9,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 2
-        },
         {
           "casa_fd": "Toulouse FC",
           "trasferta_fd": "RC Strasbourg Alsace",
