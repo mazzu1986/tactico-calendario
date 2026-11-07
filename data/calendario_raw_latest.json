@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-06T13:05:59.509973+00:00",
-  "finestra_data_da": "2026-11-03",
-  "finestra_data_a": "2026-11-16",
+  "generato_il_utc": "2026-11-07T11:50:43.281400+00:00",
+  "finestra_data_da": "2026-11-04",
+  "finestra_data_a": "2026-11-17",
   "campionati": [
     {
       "lega": "Serie A",
@@ -18,9 +18,9 @@
           "data": "2026-11-06",
           "ora_utc": "19:45",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Torino FC",
@@ -129,9 +129,9 @@
           "data": "2026-11-06",
           "ora_utc": "20:00",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Leeds United FC",
@@ -240,9 +240,9 @@
           "data": "2026-11-06",
           "ora_utc": "20:00",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Málaga CF",
@@ -351,9 +351,9 @@
           "data": "2026-11-06",
           "ora_utc": "19:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "RB Leipzig",
@@ -452,9 +452,9 @@
           "data": "2026-11-06",
           "ora_utc": "19:45",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "AJ Auxerre",
