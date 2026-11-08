@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-07T11:50:43.281400+00:00",
-  "finestra_data_da": "2026-11-04",
-  "finestra_data_a": "2026-11-17",
+  "generato_il_utc": "2026-11-08T12:03:32.893126+00:00",
+  "finestra_data_da": "2026-11-05",
+  "finestra_data_a": "2026-11-18",
   "campionati": [
     {
       "lega": "Serie A",
@@ -28,9 +28,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:00",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Cagliari Calcio",
@@ -38,9 +38,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:00",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Parma Calcio 1913",
@@ -48,9 +48,9 @@
           "data": "2026-11-07",
           "ora_utc": "17:00",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "AS Roma",
@@ -58,9 +58,9 @@
           "data": "2026-11-07",
           "ora_utc": "19:45",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "SSC Napoli",
@@ -68,9 +68,9 @@
           "data": "2026-11-08",
           "ora_utc": "11:30",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "IN_PLAY",
+          "gol_casa": 0,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Genoa CFC",
@@ -139,9 +139,9 @@
           "data": "2026-11-07",
           "ora_utc": "12:30",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Arsenal FC",
@@ -149,9 +149,9 @@
           "data": "2026-11-07",
           "ora_utc": "15:00",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Fulham FC",
@@ -159,9 +159,9 @@
           "data": "2026-11-07",
           "ora_utc": "15:00",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Nottingham Forest FC",
@@ -169,9 +169,9 @@
           "data": "2026-11-07",
           "ora_utc": "17:30",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Crystal Palace FC",
@@ -250,9 +250,9 @@
           "data": "2026-11-07",
           "ora_utc": "13:00",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "RCD Espanyol de Barcelona",
@@ -260,9 +260,9 @@
           "data": "2026-11-07",
           "ora_utc": "15:15",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "CA Osasuna",
@@ -270,9 +270,9 @@
           "data": "2026-11-07",
           "ora_utc": "17:30",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Valencia CF",
@@ -280,9 +280,9 @@
           "data": "2026-11-07",
           "ora_utc": "20:00",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 3
         },
         {
           "casa_fd": "Elche CF",
@@ -361,9 +361,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 5,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "Borussia Dortmund",
@@ -371,9 +371,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "1. FSV Mainz 05",
@@ -381,9 +381,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "SC Paderborn 07",
@@ -391,9 +391,9 @@
           "data": "2026-11-07",
           "ora_utc": "14:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 2,
+          "gol_trasferta": 2
         },
         {
           "casa_fd": "VfB Stuttgart",
@@ -401,9 +401,9 @@
           "data": "2026-11-07",
           "ora_utc": "17:30",
           "giornata": 9,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "1. FC Köln",
@@ -462,9 +462,9 @@
           "data": "2026-11-07",
           "ora_utc": "18:00",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Paris Saint-Germain FC",
@@ -472,9 +472,9 @@
           "data": "2026-11-07",
           "ora_utc": "20:05",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Stade Rennais FC 1901",
