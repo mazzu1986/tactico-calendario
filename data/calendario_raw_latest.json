@@ -1,68 +1,17 @@
 {
-  "generato_il_utc": "2026-11-11T12:51:55.425557+00:00",
-  "finestra_data_da": "2026-11-08",
-  "finestra_data_a": "2026-11-21",
+  "generato_il_utc": "2026-11-12T13:54:13.510293+00:00",
+  "finestra_data_da": "2026-11-09",
+  "finestra_data_a": "2026-11-22",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
       "giornate_presenti": [
-        11,
         12
       ],
-      "giornata": 11,
+      "giornata": 12,
       "partite": [
-        {
-          "casa_fd": "SSC Napoli",
-          "trasferta_fd": "SS Lazio",
-          "data": "2026-11-08",
-          "ora_utc": "11:30",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 1
-        },
-        {
-          "casa_fd": "Genoa CFC",
-          "trasferta_fd": "AC Milan",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "AC Monza",
-          "trasferta_fd": "Atalanta BC",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 1
-        },
-        {
-          "casa_fd": "FC Internazionale Milano",
-          "trasferta_fd": "Como 1907",
-          "data": "2026-11-08",
-          "ora_utc": "17:00",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "ACF Fiorentina",
-          "trasferta_fd": "Juventus FC",
-          "data": "2026-11-08",
-          "ora_utc": "19:45",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 2
-        },
         {
           "casa_fd": "Como 1907",
           "trasferta_fd": "Cagliari Calcio",
@@ -102,6 +51,56 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Juventus FC",
+          "trasferta_fd": "Venezia FC",
+          "data": "2026-11-22",
+          "ora_utc": "11:30",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Bologna FC 1909",
+          "trasferta_fd": "Udinese Calcio",
+          "data": "2026-11-22",
+          "ora_utc": "14:00",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "US Sassuolo Calcio",
+          "trasferta_fd": "Genoa CFC",
+          "data": "2026-11-22",
+          "ora_utc": "14:00",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AC Milan",
+          "trasferta_fd": "Frosinone Calcio",
+          "data": "2026-11-22",
+          "ora_utc": "17:00",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Atalanta BC",
+          "trasferta_fd": "FC Internazionale Milano",
+          "data": "2026-11-22",
+          "ora_utc": "19:45",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -110,61 +109,10 @@
       "fd_code": "PL",
       "errore": null,
       "giornate_presenti": [
-        10,
         11
       ],
-      "giornata": 10,
+      "giornata": 11,
       "partite": [
-        {
-          "casa_fd": "Crystal Palace FC",
-          "trasferta_fd": "Liverpool FC",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 3
-        },
-        {
-          "casa_fd": "Sunderland AFC",
-          "trasferta_fd": "Chelsea FC",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Ipswich Town FC",
-          "trasferta_fd": "AFC Bournemouth",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "Brighton & Hove Albion FC",
-          "trasferta_fd": "Brentford FC",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Manchester United FC",
-          "trasferta_fd": "Aston Villa FC",
-          "data": "2026-11-08",
-          "ora_utc": "16:30",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 4,
-          "gol_trasferta": 4
-        },
         {
           "casa_fd": "Manchester City FC",
           "trasferta_fd": "Fulham FC",
@@ -234,6 +182,26 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Hull City AFC",
+          "trasferta_fd": "Brighton & Hove Albion FC",
+          "data": "2026-11-22",
+          "ora_utc": "14:00",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Liverpool FC",
+          "trasferta_fd": "Manchester United FC",
+          "data": "2026-11-22",
+          "ora_utc": "16:30",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -242,61 +210,10 @@
       "fd_code": "PD",
       "errore": null,
       "giornate_presenti": [
-        12,
         13
       ],
-      "giornata": 12,
+      "giornata": 13,
       "partite": [
-        {
-          "casa_fd": "Elche CF",
-          "trasferta_fd": "Real Betis Balompié",
-          "data": "2026-11-08",
-          "ora_utc": "13:00",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "Real Sociedad de Fútbol",
-          "trasferta_fd": "Rayo Vallecano de Madrid",
-          "data": "2026-11-08",
-          "ora_utc": "15:15",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "RC Celta de Vigo",
-          "trasferta_fd": "Levante UD",
-          "data": "2026-11-08",
-          "ora_utc": "17:30",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Villarreal CF",
-          "trasferta_fd": "Getafe CF",
-          "data": "2026-11-08",
-          "ora_utc": "17:30",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Club Atlético de Madrid",
-          "trasferta_fd": "FC Barcelona",
-          "data": "2026-11-08",
-          "ora_utc": "20:00",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
         {
           "casa_fd": "Athletic Club",
           "trasferta_fd": "RCD Espanyol de Barcelona",
@@ -346,6 +263,46 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Barcelona",
+          "trasferta_fd": "Villarreal CF",
+          "data": "2026-11-22",
+          "ora_utc": "13:00",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Real Racing Club de Santander",
+          "trasferta_fd": "Real Sociedad de Fútbol",
+          "data": "2026-11-22",
+          "ora_utc": "15:15",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "CA Osasuna",
+          "trasferta_fd": "Málaga CF",
+          "data": "2026-11-22",
+          "ora_utc": "17:30",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Getafe CF",
+          "trasferta_fd": "Club Atlético de Madrid",
+          "data": "2026-11-22",
+          "ora_utc": "20:00",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -354,41 +311,10 @@
       "fd_code": "BL1",
       "errore": null,
       "giornate_presenti": [
-        9,
         10
       ],
-      "giornata": 9,
+      "giornata": 10,
       "partite": [
-        {
-          "casa_fd": "1. FC Köln",
-          "trasferta_fd": "Bayer 04 Leverkusen",
-          "data": "2026-11-08",
-          "ora_utc": "14:30",
-          "giornata": 9,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "SC Freiburg",
-          "trasferta_fd": "1. FC Union Berlin",
-          "data": "2026-11-08",
-          "ora_utc": "16:30",
-          "giornata": 9,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "TSG 1899 Hoffenheim",
-          "trasferta_fd": "FC Schalke 04",
-          "data": "2026-11-08",
-          "ora_utc": "18:30",
-          "giornata": 9,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "FC Bayern München",
           "trasferta_fd": "1. FC Köln",
@@ -458,6 +384,26 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Augsburg",
+          "trasferta_fd": "1. FSV Mainz 05",
+          "data": "2026-11-22",
+          "ora_utc": "14:30",
+          "giornata": 10,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "SV Werder Bremen",
+          "trasferta_fd": "Hamburger SV",
+          "data": "2026-11-22",
+          "ora_utc": "16:30",
+          "giornata": 10,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -466,71 +412,10 @@
       "fd_code": "FL1",
       "errore": null,
       "giornate_presenti": [
-        10,
         11
       ],
-      "giornata": 10,
+      "giornata": 11,
       "partite": [
-        {
-          "casa_fd": "Stade Rennais FC 1901",
-          "trasferta_fd": "Lille OSC",
-          "data": "2026-11-08",
-          "ora_utc": "14:00",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "Le Mans FC",
-          "trasferta_fd": "AS Monaco FC",
-          "data": "2026-11-08",
-          "ora_utc": "16:15",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 1
-        },
-        {
-          "casa_fd": "Stade Brestois 29",
-          "trasferta_fd": "Olympique Lyonnais",
-          "data": "2026-11-08",
-          "ora_utc": "16:15",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 2,
-          "gol_trasferta": 0
-        },
-        {
-          "casa_fd": "Le Havre AC",
-          "trasferta_fd": "FC Lorient",
-          "data": "2026-11-08",
-          "ora_utc": "16:15",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "Angers SCO",
-          "trasferta_fd": "OGC Nice",
-          "data": "2026-11-08",
-          "ora_utc": "16:15",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 2
-        },
-        {
-          "casa_fd": "Racing Club de Lens",
-          "trasferta_fd": "Olympique de Marseille",
-          "data": "2026-11-08",
-          "ora_utc": "19:45",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 2
-        },
         {
           "casa_fd": "ES Troyes AC",
           "trasferta_fd": "Le Havre AC",
@@ -585,6 +470,36 @@
           "casa_fd": "RC Strasbourg Alsace",
           "trasferta_fd": "Stade Brestois 29",
           "data": "2026-11-21",
+          "ora_utc": "19:45",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Paris FC",
+          "trasferta_fd": "Angers SCO",
+          "data": "2026-11-22",
+          "ora_utc": "14:00",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Lorient",
+          "trasferta_fd": "Stade Rennais FC 1901",
+          "data": "2026-11-22",
+          "ora_utc": "16:15",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Olympique de Marseille",
+          "trasferta_fd": "Le Mans FC",
+          "data": "2026-11-22",
           "ora_utc": "19:45",
           "giornata": 11,
           "stato": "TIMED",
