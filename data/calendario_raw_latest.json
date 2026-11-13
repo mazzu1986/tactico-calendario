@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-12T13:54:13.510293+00:00",
-  "finestra_data_da": "2026-11-09",
-  "finestra_data_a": "2026-11-22",
+  "generato_il_utc": "2026-11-13T13:18:03.444661+00:00",
+  "finestra_data_da": "2026-11-10",
+  "finestra_data_a": "2026-11-23",
   "campionati": [
     {
       "lega": "Serie A",
@@ -96,6 +96,16 @@
           "casa_fd": "Atalanta BC",
           "trasferta_fd": "FC Internazionale Milano",
           "data": "2026-11-22",
+          "ora_utc": "19:45",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "AC Monza",
+          "trasferta_fd": "ACF Fiorentina",
+          "data": "2026-11-23",
           "ora_utc": "19:45",
           "giornata": 12,
           "stato": "TIMED",
@@ -202,6 +212,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Brentford FC",
+          "trasferta_fd": "Everton FC",
+          "data": "2026-11-23",
+          "ora_utc": "20:00",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -298,6 +318,16 @@
           "casa_fd": "Getafe CF",
           "trasferta_fd": "Club Atlético de Madrid",
           "data": "2026-11-22",
+          "ora_utc": "20:00",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Levante UD",
+          "trasferta_fd": "Elche CF",
+          "data": "2026-11-23",
           "ora_utc": "20:00",
           "giornata": 13,
           "stato": "TIMED",
