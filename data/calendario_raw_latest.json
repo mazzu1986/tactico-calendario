@@ -1,14 +1,15 @@
 {
-  "generato_il_utc": "2026-11-16T13:52:34.351273+00:00",
-  "finestra_data_da": "2026-11-13",
-  "finestra_data_a": "2026-11-26",
+  "generato_il_utc": "2026-11-17T14:45:12.570278+00:00",
+  "finestra_data_da": "2026-11-14",
+  "finestra_data_a": "2026-11-27",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
       "giornate_presenti": [
-        12
+        12,
+        13
       ],
       "giornata": 12,
       "partite": [
@@ -111,6 +112,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Venezia FC",
+          "trasferta_fd": "Bologna FC 1909",
+          "data": "2026-11-27",
+          "ora_utc": "19:45",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -119,7 +130,8 @@
       "fd_code": "PL",
       "errore": null,
       "giornate_presenti": [
-        11
+        11,
+        12
       ],
       "giornata": 11,
       "partite": [
@@ -222,6 +234,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Nottingham Forest FC",
+          "trasferta_fd": "Chelsea FC",
+          "data": "2026-11-27",
+          "ora_utc": "20:00",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -230,7 +252,8 @@
       "fd_code": "PD",
       "errore": null,
       "giornate_presenti": [
-        13
+        13,
+        14
       ],
       "giornata": 13,
       "partite": [
@@ -333,6 +356,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Levante UD",
+          "trasferta_fd": "Real Racing Club de Santander",
+          "data": "2026-11-27",
+          "ora_utc": "20:00",
+          "giornata": 14,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -341,7 +374,8 @@
       "fd_code": "BL1",
       "errore": null,
       "giornate_presenti": [
-        10
+        10,
+        11
       ],
       "giornata": 10,
       "partite": [
@@ -434,6 +468,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "SV Werder Bremen",
+          "trasferta_fd": "Borussia Mönchengladbach",
+          "data": "2026-11-27",
+          "ora_utc": "19:30",
+          "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -442,7 +486,8 @@
       "fd_code": "FL1",
       "errore": null,
       "giornate_presenti": [
-        11
+        11,
+        12
       ],
       "giornata": 11,
       "partite": [
@@ -532,6 +577,16 @@
           "data": "2026-11-22",
           "ora_utc": "19:45",
           "giornata": 11,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Stade Brestois 29",
+          "trasferta_fd": "Paris FC",
+          "data": "2026-11-27",
+          "ora_utc": "19:45",
+          "giornata": 12,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
