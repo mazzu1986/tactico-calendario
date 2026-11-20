@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-19T14:35:33.861717+00:00",
-  "finestra_data_da": "2026-11-16",
-  "finestra_data_a": "2026-11-29",
+  "generato_il_utc": "2026-11-20T14:13:34.941359+00:00",
+  "finestra_data_da": "2026-11-17",
+  "finestra_data_a": "2026-11-30",
   "campionati": [
     {
       "lega": "Serie A",
@@ -187,6 +187,26 @@
           "casa_fd": "Como 1907",
           "trasferta_fd": "Juventus FC",
           "data": "2026-11-29",
+          "ora_utc": "19:45",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "US Lecce",
+          "trasferta_fd": "Atalanta BC",
+          "data": "2026-11-30",
+          "ora_utc": "17:30",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Cagliari Calcio",
+          "trasferta_fd": "AC Milan",
+          "data": "2026-11-30",
           "ora_utc": "19:45",
           "giornata": 13,
           "stato": "TIMED",
@@ -601,6 +621,16 @@
           "casa_fd": "Real Sociedad de Fútbol",
           "trasferta_fd": "Sevilla FC",
           "data": "2026-11-29",
+          "ora_utc": "20:00",
+          "giornata": 14,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "RCD Espanyol de Barcelona",
+          "trasferta_fd": "Getafe CF",
+          "data": "2026-11-30",
           "ora_utc": "20:00",
           "giornata": 14,
           "stato": "TIMED",
