@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-20T14:13:34.941359+00:00",
-  "finestra_data_da": "2026-11-17",
-  "finestra_data_a": "2026-11-30",
+  "generato_il_utc": "2026-11-21T13:37:41.171644+00:00",
+  "finestra_data_da": "2026-11-18",
+  "finestra_data_a": "2026-12-01",
   "campionati": [
     {
       "lega": "Serie A",
@@ -221,7 +221,8 @@
       "errore": null,
       "giornate_presenti": [
         11,
-        12
+        12,
+        13
       ],
       "giornata": 11,
       "partite": [
@@ -231,9 +232,9 @@
           "data": "2026-11-21",
           "ora_utc": "12:30",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "IN_PLAY",
+          "gol_casa": 0,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Chelsea FC",
@@ -424,6 +425,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Coventry City FC",
+          "trasferta_fd": "Ipswich Town FC",
+          "data": "2026-12-01",
+          "ora_utc": "20:00",
+          "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -443,9 +454,9 @@
           "data": "2026-11-20",
           "ora_utc": "20:00",
           "giornata": 13,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 0,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Deportivo Alavés",
@@ -453,9 +464,9 @@
           "data": "2026-11-21",
           "ora_utc": "13:00",
           "giornata": 13,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "IN_PLAY",
+          "gol_casa": 1,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Rayo Vallecano de Madrid",
@@ -655,9 +666,9 @@
           "data": "2026-11-20",
           "ora_utc": "19:30",
           "giornata": 10,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Bayer 04 Leverkusen",
@@ -847,9 +858,9 @@
           "data": "2026-11-20",
           "ora_utc": "19:45",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "OGC Nice",
