@@ -1,7 +1,7 @@
 {
-  "generato_il_utc": "2026-11-23T16:17:52.319804+00:00",
-  "finestra_data_da": "2026-11-20",
-  "finestra_data_a": "2026-12-03",
+  "generato_il_utc": "2026-11-24T16:05:30.291666+00:00",
+  "finestra_data_da": "2026-11-21",
+  "finestra_data_a": "2026-12-04",
   "campionati": [
     {
       "lega": "Serie A",
@@ -9,7 +9,8 @@
       "errore": null,
       "giornate_presenti": [
         12,
-        13
+        13,
+        14
       ],
       "giornata": 12,
       "partite": [
@@ -109,9 +110,9 @@
           "data": "2026-11-23",
           "ora_utc": "19:45",
           "giornata": 12,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 3,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Venezia FC",
@@ -209,6 +210,16 @@
           "data": "2026-11-30",
           "ora_utc": "19:45",
           "giornata": 13,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Bologna FC 1909",
+          "trasferta_fd": "AS Roma",
+          "data": "2026-12-04",
+          "ora_utc": "19:45",
+          "giornata": 14,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
@@ -322,9 +333,9 @@
           "data": "2026-11-23",
           "ora_utc": "20:00",
           "giornata": 11,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 4,
+          "gol_trasferta": 0
         },
         {
           "casa_fd": "Nottingham Forest FC",
@@ -535,20 +546,11 @@
       "giornate_presenti": [
         13,
         14,
+        15,
         23
       ],
       "giornata": 13,
       "partite": [
-        {
-          "casa_fd": "Athletic Club",
-          "trasferta_fd": "RCD Espanyol de Barcelona",
-          "data": "2026-11-20",
-          "ora_utc": "20:00",
-          "giornata": 13,
-          "stato": "FINISHED",
-          "gol_casa": 0,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Deportivo Alavés",
           "trasferta_fd": "RC Deportivo La Coruña",
@@ -635,9 +637,9 @@
           "data": "2026-11-23",
           "ora_utc": "20:00",
           "giornata": 13,
-          "stato": "TIMED",
-          "gol_casa": null,
-          "gol_trasferta": null
+          "stato": "FINISHED",
+          "gol_casa": 1,
+          "gol_trasferta": 1
         },
         {
           "casa_fd": "Levante UD",
@@ -758,6 +760,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Deportivo Alavés",
+          "trasferta_fd": "RCD Espanyol de Barcelona",
+          "data": "2026-12-04",
+          "ora_utc": "20:00",
+          "giornata": 15,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -767,20 +779,11 @@
       "errore": null,
       "giornate_presenti": [
         10,
-        11
+        11,
+        12
       ],
       "giornata": 10,
       "partite": [
-        {
-          "casa_fd": "FC Bayern München",
-          "trasferta_fd": "1. FC Köln",
-          "data": "2026-11-20",
-          "ora_utc": "19:30",
-          "giornata": 10,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Bayer 04 Leverkusen",
           "trasferta_fd": "SC Paderborn 07",
@@ -950,6 +953,16 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "FC Bayern München",
+          "trasferta_fd": "SC Paderborn 07",
+          "data": "2026-12-04",
+          "ora_utc": "19:30",
+          "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -959,20 +972,11 @@
       "errore": null,
       "giornate_presenti": [
         11,
-        12
+        12,
+        13
       ],
       "giornata": 11,
       "partite": [
-        {
-          "casa_fd": "ES Troyes AC",
-          "trasferta_fd": "Le Havre AC",
-          "data": "2026-11-20",
-          "ora_utc": "19:45",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "OGC Nice",
           "trasferta_fd": "Paris Saint-Germain FC",
@@ -1139,6 +1143,16 @@
           "data": "2026-11-29",
           "ora_utc": "19:45",
           "giornata": 12,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Toulouse FC",
+          "trasferta_fd": "Paris Saint-Germain FC",
+          "data": "2026-12-04",
+          "ora_utc": "19:45",
+          "giornata": 13,
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
