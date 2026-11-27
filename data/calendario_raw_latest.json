@@ -1,29 +1,18 @@
 {
-  "generato_il_utc": "2026-11-26T15:33:17.308557+00:00",
-  "finestra_data_da": "2026-11-23",
-  "finestra_data_a": "2026-12-06",
+  "generato_il_utc": "2026-11-27T15:25:39.943956+00:00",
+  "finestra_data_da": "2026-11-24",
+  "finestra_data_a": "2026-12-07",
   "campionati": [
     {
       "lega": "Serie A",
       "fd_code": "SA",
       "errore": null,
       "giornate_presenti": [
-        12,
         13,
         14
       ],
-      "giornata": 12,
+      "giornata": 13,
       "partite": [
-        {
-          "casa_fd": "AC Monza",
-          "trasferta_fd": "ACF Fiorentina",
-          "data": "2026-11-23",
-          "ora_utc": "19:45",
-          "giornata": 12,
-          "stato": "FINISHED",
-          "gol_casa": 3,
-          "gol_trasferta": 0
-        },
         {
           "casa_fd": "Venezia FC",
           "trasferta_fd": "Bologna FC 1909",
@@ -203,6 +192,26 @@
           "stato": "TIMED",
           "gol_casa": null,
           "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Venezia FC",
+          "trasferta_fd": "US Sassuolo Calcio",
+          "data": "2026-12-07",
+          "ora_utc": "17:30",
+          "giornata": 14,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "ACF Fiorentina",
+          "trasferta_fd": "Cagliari Calcio",
+          "data": "2026-12-07",
+          "ora_utc": "19:45",
+          "giornata": 14,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
         }
       ]
     },
@@ -211,23 +220,12 @@
       "fd_code": "PL",
       "errore": null,
       "giornate_presenti": [
-        11,
         12,
         13,
         14
       ],
-      "giornata": 11,
+      "giornata": 12,
       "partite": [
-        {
-          "casa_fd": "Brentford FC",
-          "trasferta_fd": "Everton FC",
-          "data": "2026-11-23",
-          "ora_utc": "20:00",
-          "giornata": 11,
-          "stato": "FINISHED",
-          "gol_casa": 4,
-          "gol_trasferta": 0
-        },
         {
           "casa_fd": "Nottingham Forest FC",
           "trasferta_fd": "Chelsea FC",
@@ -535,23 +533,12 @@
       "fd_code": "PD",
       "errore": null,
       "giornate_presenti": [
-        13,
         14,
         15,
         23
       ],
-      "giornata": 13,
+      "giornata": 14,
       "partite": [
-        {
-          "casa_fd": "Levante UD",
-          "trasferta_fd": "Elche CF",
-          "data": "2026-11-23",
-          "ora_utc": "20:00",
-          "giornata": 13,
-          "stato": "FINISHED",
-          "gol_casa": 1,
-          "gol_trasferta": 1
-        },
         {
           "casa_fd": "Levante UD",
           "trasferta_fd": "Real Racing Club de Santander",
@@ -756,6 +743,16 @@
           "casa_fd": "Club Atlético de Madrid",
           "trasferta_fd": "Real Betis Balompié",
           "data": "2026-12-06",
+          "ora_utc": "20:00",
+          "giornata": 15,
+          "stato": "TIMED",
+          "gol_casa": null,
+          "gol_trasferta": null
+        },
+        {
+          "casa_fd": "Sevilla FC",
+          "trasferta_fd": "Málaga CF",
+          "data": "2026-12-07",
           "ora_utc": "20:00",
           "giornata": 15,
           "stato": "TIMED",
